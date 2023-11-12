@@ -9,8 +9,7 @@
 - Visit my portfolio [Bailador Project](https://bailador-project.netlify.app/)
 
 ## :yum: About me
-Nacido en Argentina, La Plata - Bs.As. Estudié informática en la UNLP, pero ahora soy dueño de estudiar
-sin limitaciones. Amante del conocimiento y del saber. Soy padre de familia.
+Born in Argentina, La Plata - Bs.As. I studied computer science at UNLP, but now I am the owner of studying without limitations. Lover of knowledge and learning. I am a family man.
 
 
 ![Family](https://img.shields.io/badge/-Family-%23c71e1e)
