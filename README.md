@@ -1,29 +1,23 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola y Bienvenido a mi perfil
 
-Soy desarrollador web full stack apasionado por construir soluciones eficientes y escalables. Me especializo en tecnologías como:
+Soy 1Programador FullStack argentino apasionado por construir soluciones eficientes y escalables. 
+Me especializo en tecnologías como:
 
-- 🔧 JavaScript | React | Node.js | PHP | SQL Server | MySQL
-- ⚙️ Django | Laravel | Express.js
-- 🛠️ HTML | CSS | Tailwind | Bootstrap
-- 🗃️ PostgreSQL | MongoDB
+- 🔧 JavaScript | TypeScript | Next JS | React JS | Vue JS | Express JS | PHP | Laravel | SQL Server | MySQL | Mongo DB
 - ☁️ APIs | REST | Autenticación | JWT | OAuth
-
-### 🚀 Proyectos Destacados
-- 🏠 **Sistema Inmobiliario**: Registro y búsqueda de propiedades con mapa interactivo y login social.
-- 📂 **Gestor de Archivos**: Subida, vista previa, y organización de imágenes y documentos.
-- 📊 **Dashboard de Administración**: Visualización de métricas con gráficos y filtros avanzados.
 
 ### 💡 Me interesa...
 - Aprender tecnologías nuevas
 - Trabajar en equipo
 - Compartir conocimientos
 - Mejorar el rendimiento de apps y UX
+- Programar 🔥
+- Heavy Metal 🤘
 
-### 📫 Contacto
-- Email: [tu-email@example.com]
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- Portfolio: [tuweb.dev](https://tuweb.dev)
-
----
-
-> “El código es como el humor. Cuando tienes que explicarlo, es malo.” – Cory House
+### 📫 Contacto | Trabajos
+- Email: bailadorgaston93@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bailador93/ 
+- Portfolio: https://bailador93.vercel.app/
+- Servicios IT: https://loopydata.com/ (proyecto personal)
+ 
+ 
