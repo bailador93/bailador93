@@ -18,6 +18,6 @@ Me especializo en tecnologías como:
 - Email: bailadorgaston93@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bailador93/ 
 - Portfolio: https://bailador93.vercel.app/
-- Servicios IT: https://loopydata.com/ (proyecto personal)
+- Servicios IT: https://loopydata.com/ (proyecto familiar)
  
  
